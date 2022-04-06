@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="App">
-      <div id="headingDiv" data-testid="App_testid">
+      <div id="headingDiv">
         <span id="heading">
           <b>Skills-Based Certifications</b>
         </span>

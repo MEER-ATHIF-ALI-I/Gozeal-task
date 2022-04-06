@@ -10,9 +10,9 @@ function Form(props) {
     }
 
   return (
-      <div className='form' data-testid='form_testid'>
+      <div className='form'>
           
-          <div id='fieldDiv' data-testid='form_testid'>
+          <div id='fieldDiv' >
 
               <div id='certNameField'>
                   <Field

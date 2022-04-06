@@ -2,7 +2,7 @@ import React from 'react'
 
 function Success(props) {
   return (
-      <div id='successDiv' data-testid='success_testid'>
+      <div id='successDiv'>
           <div>
               <span id='number'>1</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <span id='name'><b>{ props.certName}</b></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

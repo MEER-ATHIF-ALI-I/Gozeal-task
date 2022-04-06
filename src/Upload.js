@@ -19,7 +19,7 @@ function Upload(props) {
   };
 
   return (
-    <div data-testid="upload_testid">
+    <div>
       <div id="uploadBtnDiv" onClick={onUploadClick}>
         <div id="uploadText">
           <span>
